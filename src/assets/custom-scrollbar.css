@@ -1,0 +1,18 @@
+html {
+  overflow-y: scroll !important;
+  overflow-x: hidden !important;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: inherit;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background: #878787;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #575656;
+}
