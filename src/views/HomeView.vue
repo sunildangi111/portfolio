@@ -566,16 +566,28 @@ export default {
       // Project cards
       cardData1: [
         {
-          imageUrl: require("../assets/images/gfg.png"),
-          title: "GeeksForGeeks",
-          subtitle: "HTML.CSS.JavaScript.Supabase",
-          url: "https://gfgbvucoep.github.io/gfgwebsite/",
+          imageUrl: require("../assets/images/Ai_energy_optimizer.png"),
+          title: "AI Energy Optimizer",
+          subtitle: "Python.Flask.ML.Streamlit",
+          url: "https://github.com/sunildangi111/AI-Energy-Optimizer",
         },
         {
           imageUrl: require("../assets/images/Group 4.png"),
           title: "Bharatiyam-2025",
           subtitle: "React Js.JavaScript.Supabase.Node Js",
           url: "https://github.com/Bharatiyam25/bharatiyamWebsite",
+        },
+        {
+          imageUrl: require("../assets/images/Trifinity_tutors.jpeg"),
+          title: "Trifinity Tutors",
+          subtitle: "React Js.Node Js.MongoDB.AWT",
+          url: "https://github.com/TrifinityTutors/TrifinityTutors",
+        },
+        {
+          imageUrl: require("../assets/images/gfg.png"),
+          title: "GeeksForGeeks",
+          subtitle: "HTML.CSS.JavaScript.Supabase",
+          url: "https://gfgbvucoep.github.io/gfgwebsite/",
         },
         {
           imageUrl: require("../assets/images/Tic-Tac-Toe.png"),
